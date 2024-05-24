@@ -6,7 +6,8 @@
 - <img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"> Ask me about <a href="https://it.wikipedia.org/wiki/Arancino">**Arancino**</a>
 
 - 📫 Contacts:
--<a href="malito: busadavide95@gmail.com">ciao</a>
+
+<a href="malito: busadavide95@gmail.com">ciao</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
