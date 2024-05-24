@@ -12,6 +12,7 @@
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" alt = "Spring" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/html-5.png" alt = "HTML" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/css-3.png" alt = "CSS" width="40" height="40">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/python.png" alt="python" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/arduino_logo_icon_170518.png" alt = "Arduino" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/photoshop.png" alt = "Photoshop" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/illustrator.png" alt = "Illustrator" width="40" height="40">
@@ -19,7 +20,6 @@
 
 - 🌱 I’m currently learning:
 <p align="left">
-  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/python.png" alt="python" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Node.png" alt="Node" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/React.png" alt="React" width="40" height="40"> 
 </p>
