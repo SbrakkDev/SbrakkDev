@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Node**
 
-- <img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"> Ask me about **Arancini**
+- <img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"> Ask me about <a href="https://it.wikipedia.org/wiki/Arancino">**Arancini**</a>
 
 - 📫 How to reach me **busadavide95@gmail.com**
 
