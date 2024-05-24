@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide!</h1>
-<h3 align="center">A passionate backend developer from Italy!<img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"></h3>
+<h3 align="center">A passionate backend developer from Italy!<img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"><a href="https://emoji.gg/emoji/2169_italyparrot"><img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot"></h3>
 
 - 🌱 I’m currently learning **React,Node**
 
