@@ -26,6 +26,7 @@
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" alt = "Spring" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Node.png" alt="Node" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/React.png" alt="React" width="40" height="40"> 
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/aws.png" alt = "Spring" width="40" height="40">
 </p>
 
 <h3 align="left">Connect with me:</h3>
