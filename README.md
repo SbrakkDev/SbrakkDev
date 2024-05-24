@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Davide!</h1>
 <h3 align="center"><img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot">A passionate backend developer from Italy!<img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot"></h3>
 
--👩‍💻 I'm currently studying Spring at Develhope
--💻 Future Fullstack developer
--🧠 Always looking for ways to improve my skills!
+- 👩‍💻 I'm currently studying Spring at Develhope
+- 💻 Future Fullstack developer
+- 🧠 Always looking for ways to improve my skills!
 - <img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"> Ask me about <a href="https://it.wikipedia.org/wiki/Arancino">**Arancino**</a>
 
 
