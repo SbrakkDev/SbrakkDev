@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide!</h1>
-<h3 align="center"><img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot">A passionate backend developer from Italy!<img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot"></h3>
+<h3 align="center"><img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot">A passionate Backend developer from Italy!<img src="https://cdn3.emoji.gg/emojis/2169_italyparrot.gif" width="64px" height="64px" alt="italyParrot"></h3>
 
 - 👩‍💻 I'm currently studying Spring at Develhope
 - 💻 Future Fullstack developer
@@ -12,8 +12,7 @@
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/git.png" alt="Git" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/java.png" alt="java" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/js.png" alt="Js" width="40" height="40"> 
-  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Mysql.png" alt="MySql" width="40" height="40"> 
-  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" alt = "Spring" width="40" height="40">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Mysql.png" alt="MySql" width="40" height="40">  
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/html-5.png" alt = "HTML" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/css-3.png" alt = "CSS" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/python.png" alt="python" width="40" height="40"> 
@@ -24,6 +23,7 @@
 
 - 🌱 I’m currently learning:
 <p align="left">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" alt = "Spring" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Node.png" alt="Node" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/React.png" alt="React" width="40" height="40"> 
 </p>
