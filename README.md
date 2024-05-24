@@ -4,8 +4,10 @@
 - <img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="20px" height="20px" alt="sicily"> Ask me about <a href="https://it.wikipedia.org/wiki/Arancino">**Arancino**</a>
 
 - 💻 Languages and Tools:
-<p align="left"><img src="https://github.com/SbrakkDev/iconeReadme/blob/main/java.png" alt="java" width="40" height="40"/> 
-  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/js.png" alt="MySql" width="40" height="40"> 
+<p align="left">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/git.png" alt="Git" width="40" height="40"/> 
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/java.png" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/js.png" alt="Js" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Mysql.png" alt="MySql" width="40" height="40"> 
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" width="40" height="40"/>  </p>
 
