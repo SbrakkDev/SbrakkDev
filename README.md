@@ -7,7 +7,7 @@
 
 - 📫 Contacts:
 
-<a href= "malito:busadavide95@gmail.com">ciao</a>
+<a href= "malito:contact.busadavide95@gmail.com">ciao</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
