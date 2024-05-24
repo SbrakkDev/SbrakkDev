@@ -17,7 +17,12 @@
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/illustrator.png" alt = "Illustrator" width="40" height="40">
 </p>
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I’m currently learning:
+<p align="left">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/python.png" alt="python" width="40" height="40"> 
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Node.png" alt="Node" width="40" height="40"> 
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/React.png" alt="React" width="40" height="40"> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
