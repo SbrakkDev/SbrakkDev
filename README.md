@@ -19,6 +19,7 @@
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/arduino_logo_icon_170518.png" alt = "Arduino" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/photoshop.png" alt = "Photoshop" width="40" height="40">
   <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/illustrator.png" alt = "Illustrator" width="40" height="40">
+  <img src="https://github.com/SbrakkDev/iconeReadme/blob/main/Spring.png" alt = "Spring" width="40" height="40">
 </p>
 
 - 🌱 I’m currently learning:
